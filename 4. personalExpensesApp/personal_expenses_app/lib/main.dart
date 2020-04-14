@@ -23,7 +23,7 @@ class MyHomePage extends StatelessWidget {
         title: Text('Flutter App'),
       ),
       body: SingleChildScrollView(
-        scrollDirection: Axis.vertical,
+        // scrollDirection: Axis.vertical,
         child: Column(
           //mainAxisAlignment: MainAxisAlignment.start,
           crossAxisAlignment: CrossAxisAlignment.stretch,
